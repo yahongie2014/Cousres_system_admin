@@ -1,0 +1,58 @@
+.examlist {
+	list-style:none;
+}
+.examlist li:before {
+    display: block;
+    float: left;
+    margin-top: 5px;
+    margin-right: 20px;
+    margin-bottom: 5px;
+    font-family: 'FontAwesome';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    font-size: 19px;
+    line-height: 15px;
+    -webkit-font-smoothing: antialiased;
+    -webkit-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+    -moz-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+    -o-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+    -ms-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+    transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    background: #d9d9d9;
+    color: #fff;
+    padding: 2px 4px 1px 4px;
+    font-size: 10px;
+    content: "\f00c";
+}
+.examlist li.answered:before {
+     background: #28a8d3 !important;
+}
+.examlist li.answered a{
+	color: #c5c5c5 !important;
+}
+.examlist li.skipped:before {
+	background: #f5423a !important;
+	content: "\f00d" ;
+}
+.examlist li.skipped a {
+	color: #f5423a !important;
+}
+.examlist li.current:before {
+	background: #2fc50c !important;
+}
+.examlist li.current a{
+	font-weight: bold;
+}
+
+
+/**************************/
+
+.exam-check label{
+	font-size: 1em;
+}

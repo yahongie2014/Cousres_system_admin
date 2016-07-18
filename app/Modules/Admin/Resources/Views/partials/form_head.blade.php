@@ -1,0 +1,16 @@
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/select2/select2.css') }}"/>
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/bootstrap-fileinput/bootstrap-fileinput.css') }}"/>
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css') }}"/>
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/jquery-tags-input/jquery.tagsinput.css') }}"/>
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/bootstrap-markdown/css/bootstrap-markdown.min.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/typeahead/typeahead.css') }}">
+<link href="{{ asset('assets/backend/assets/global/plugins/jquery-minicolors/jquery.minicolors.css') }}" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/clockface/css/clockface.css') }}"/>
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css') }}"/>
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/bootstrap-timepicker/css/bootstrap-timepicker.min.css') }}"/>
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/bootstrap-colorpicker/css/colorpicker.css') }}"/>
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/bootstrap-daterangepicker/daterangepicker-bs3.css') }}"/>
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css') }}"/>
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/bootstrap-select/bootstrap-select.min.css') }}"/>
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/select2/select2.css') }}"/>
+<link rel="stylesheet" type="text/css" href="{{ asset('assets/backend/assets/global/plugins/jquery-multi-select/css/multi-select.css') }}"/>

@@ -1,0 +1,44 @@
+
+body{
+	background:#f9f9f9;
+}
+.wrapper-page {
+    margin: 5% auto;
+    position: relative;
+    width: 420px;
+}
+
+.wrapper-page .card-box {
+    border: 1px solid rgba(54, 64, 74, .1);
+    background:#ffffff;
+    border-radius: 5px;
+}
+
+.panel-pages {
+    border-radius: 6px
+}
+
+.panel-pages .panel-body {
+    padding: 30px
+}
+
+.panel-pages .panel-heading {
+    -moz-border-radius: 6px 6px 0 0;
+    -webkit-border-radius: 6px 6px 0 0;
+    border-radius: 6px 6px 0 0;
+    padding: 40px 20px;
+    position: relative
+}
+
+.panel-pages .panel-heading h3,
+.user-thumb {
+    position: relative;
+    z-index: 999
+}
+
+
+.user-thumb img {
+    height: 88px;
+    margin: 0 auto;
+    width: 88px
+}
